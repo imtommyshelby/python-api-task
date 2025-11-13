@@ -77,4 +77,3 @@ https://jsonplaceholder.typicode.com/users
 
 This is a free public API commonly used for demos and practice.
 
-```
